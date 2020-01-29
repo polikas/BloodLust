@@ -2,7 +2,7 @@
 
 Second Year project made with Unity by me, free assets used for the graphics, made in 4 days
 
----Game Description
+# ---Game Description
 
 2D game survival royale game, one man army versus hordes of skeletons
 
