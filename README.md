@@ -9,3 +9,17 @@ Second Year project made with Unity by me, free assets used for the graphics, ma
 Main goal is to kill skeletons and retrieve their blood in order to become stronger
 
 Bonus Boss level after you become stronger
+
+# Install Instructions
+
+1st step: Download the zip folder
+
+2nd step: Unzip
+
+3rd step: Open the project -> BloodLust
+
+4th step: Open -> Build Folder
+
+5th step: Run -> BloodLust.exe
+
+Enjoy :)
